@@ -1,1 +1,1 @@
-# simple-alarm-android-kotlin
+# simple-songs-alarm-android-kotlin
